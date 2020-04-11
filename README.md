@@ -14,7 +14,7 @@ bus1.json | gps data that gets streamed
 # Installation 
 Install [Kafka](https://kafka.apache.org/quickstart) and follow the description given on the website of the mentioned you tube video
 
-pip install requirements.txt
+pip install -r requirements.txt
 
 # Run
 Start zookeeper
